@@ -3,8 +3,6 @@
 A clean, UT‑themed remake of **2048** built with **Python + Pygame**.  
 Arrow keys to play. Press **R** to restart, **Esc** to quit.
 
-<img src="media/screenshot.png" width="640" alt="UT-2048 screenshot">
-
 ---
 
 ## Features
